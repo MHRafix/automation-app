@@ -1,0 +1,20 @@
+{
+  "name": "bypass-captcha",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "playwright": "^1.41.2"
+  },
+  "dependencies": {
+    "2captcha": "^3.0.7",
+    "axios": "^1.6.7",
+    "pupeteer": "^0.0.1"
+  }
+}
